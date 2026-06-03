@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Inicio
-permalink: /
 ---
 
 # Adrian Sanchez Torrejon | Redes & Ciberseguridad
