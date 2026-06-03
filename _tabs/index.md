@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Inicio
+icon: fas fa-home
+order: 1
 ---
 
 # Adrian Sanchez Torrejon | Redes & Ciberseguridad
@@ -25,4 +27,3 @@ Administrador de Redes y Especialista en Ciberseguridad enfocado en la **resilie
 * **Gestión de Redes Críticas:** Segmentación mediante VLANs, implementación de protocolos de redundancia y optimización de tráfico.
 * **Respuesta ante Incidentes:** Análisis de logs y detección de anomalías en tiempo real.
 * **Lógica de Sistemas:** Desarrollo de scripts para la automatización de tareas y validación de reglas de acceso (evitando "falsos positivos" en muros de fuego lógicos).
-
