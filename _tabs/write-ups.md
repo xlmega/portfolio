@@ -14,7 +14,7 @@ Aquí comparto la resolución técnica de máquinas y retos de ciberseguridad, e
   {% for report in site.writeups %}
     <li>
       <strong>[{{ report.platform }}]</strong> 
-      <a href="{{ report.url }}">{{ report.title }}</a> 
+      <a href="{{ report.url | relative_url }}">{{ report.title }}</a> 
       - <span style="color: #888;">{{ report.category }} ({{ report.difficulty }})</span>
     </li>
   {% endfor %}
