@@ -1,6 +1,6 @@
 ---
 title: MIREA-DF - Metodología de Análisis Forense Digital
-date: 2025-06-18 11:00:00 +0200
+date: 2026-05-18 11:00:00 +0200
 categories: [Investigación, Análisis Forense]
 tags: [DFIR, Metodología, Legal, RFC 3227, UNE 71506]
 ---

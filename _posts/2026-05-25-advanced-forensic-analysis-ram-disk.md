@@ -1,6 +1,6 @@
 ---
 title: Análisis Forense Avanzado de Memoria RAM y Disco
-date: 2025-06-25 18:00:00 +0200
+date: 2026-05-25 18:00:00 +0200
 categories: [Proyectos, Análisis Forense]
 tags: [DFIR, Volatility, Autopsy, Forense, RAM, Disco]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bastionado de Servidores Linux (P9)
-date: 2025-06-13 09:00:00 +0200
+date: 2026-05-13 09:00:00 +0200
 categories: [Proyectos, Bastionado]
 tags: [Hardening, Linux, SSH, Seguridad]
 ---

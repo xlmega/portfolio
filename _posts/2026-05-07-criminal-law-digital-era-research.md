@@ -1,6 +1,6 @@
 ---
 title: Fundamentos de Derecho Penal en la Era Digital
-date: 2025-07-07 12:00:00 +0200
+date: 2026-05-07 12:00:00 +0200
 categories: [Investigación, Normativa]
 tags: [Derecho Penal, Bien Jurídico, Regulación Digital, GRC]
 ---

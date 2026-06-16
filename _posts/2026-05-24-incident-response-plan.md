@@ -1,6 +1,6 @@
 ---
 title: Plan de Respuesta ante Incidentes (IRP)
-date: 2025-06-24 17:00:00 +0200
+date: 2026-05-24 17:00:00 +0200
 categories: [Investigación, Gestión de Incidentes]
 tags: [IRP, Respuesta a Incidentes, Playbooks, SOC, Ciberseguridad]
 ---

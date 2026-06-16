@@ -1,6 +1,6 @@
 ---
 title: Análisis de Riesgos y Gestión de Incidentes
-date: 2025-06-21 14:00:00 +0200
+date: 2026-05-21 14:00:00 +0200
 categories: [Investigación, Normativa]
 tags: [Gestión de Riesgos, Incidentes, MAGERIT, ISO 27001]
 ---

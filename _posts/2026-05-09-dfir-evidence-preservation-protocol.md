@@ -1,6 +1,6 @@
 ---
 title: Adquisición Forense y Preservación de Evidencias Digitales
-date: 2025-07-09 11:00:00 +0200
+date: 2026-05-09 11:00:00 +0200
 categories: [Proyectos, Análisis Forense]
 tags: [DFIR, Cadena de Custodia, Hashing, FTK Imager, E01]
 ---

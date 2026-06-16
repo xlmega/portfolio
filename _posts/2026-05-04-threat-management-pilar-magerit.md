@@ -1,6 +1,6 @@
 ---
 title: Gestión de Amenazas y Análisis de Riesgos con PILAR
-date: 2025-07-04 12:00:00 +0200
+date: 2026-05-04 12:00:00 +0200
 categories: [Proyectos, Normativa]
 tags: [MAGERIT, PILAR, ENS, Análisis de Riesgos, Amenazas]
 ---

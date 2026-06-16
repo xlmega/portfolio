@@ -1,6 +1,6 @@
 ---
 title: Hardening de Kernel en Linux y Windows
-date: 2025-06-19 12:00:00 +0200
+date: 2026-05-19 12:00:00 +0200
 categories: [Proyectos, Bastionado]
 tags: [Hardening, Kernel, Linux, Windows, Seguridad]
 ---

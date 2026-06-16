@@ -1,6 +1,6 @@
 ---
 title: Informe de Análisis Forense - Incidente en Servidor Linux
-date: 2025-06-15 12:00:00 +0200
+date: 2026-05-15 12:00:00 +0200
 categories: [Proyectos, Análisis Forense]
 tags: [DFIR, WordPress, Linux, Volatility]
 ---

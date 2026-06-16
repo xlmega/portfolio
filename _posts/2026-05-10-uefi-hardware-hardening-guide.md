@@ -1,6 +1,6 @@
 ---
 title: Hardening de Hardware - Protección del Firmware UEFI
-date: 2025-07-10 12:00:00 +0200
+date: 2026-05-10 12:00:00 +0200
 categories: [Proyectos, Bastionado]
 tags: [UEFI, Secure Boot, Firmware, Hardening, Seguridad de Hardware]
 ---

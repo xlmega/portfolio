@@ -1,6 +1,6 @@
 ---
 title: Mercado de Ciberseguridad - Proveedores de SOC y CERT en España
-date: 2025-07-03 11:00:00 +0200
+date: 2026-05-03 11:00:00 +0200
 categories: [Investigación, Mercado]
 tags: [SOC, CERT, CSIRT, CTI, Proveedores España]
 ---

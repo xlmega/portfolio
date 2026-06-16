@@ -1,6 +1,6 @@
 ---
 title: Desarrollo de Retos CTF - Criptografía y Esteganografía
-date: 2025-06-26 19:00:00 +0200
+date: 2026-05-26 19:00:00 +0200
 categories: [Proyectos, Formación]
 tags: [CTF, Criptografía, Esteganografía, CTFd, Seguridad]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Seguridad Wireless y Mapas de Calor (Heatmaps)
-date: 2025-06-23 16:00:00 +0200
+date: 2026-05-23 16:00:00 +0200
 categories: [Proyectos, Infraestructura]
 tags: [Wireless, WiFi, Seguridad, Heatmaps, Análisis de Cobertura]
 ---

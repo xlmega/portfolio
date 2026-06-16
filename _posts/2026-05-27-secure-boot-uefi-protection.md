@@ -1,6 +1,6 @@
 ---
 title: Seguridad en el Arranque y Protección UEFI
-date: 2025-06-27 20:00:00 +0200
+date: 2026-05-27 20:00:00 +0200
 categories: [Proyectos, Bastionado]
 tags: [UEFI, Secure Boot, BIOS, Hardening, Seguridad de Hardware]
 ---

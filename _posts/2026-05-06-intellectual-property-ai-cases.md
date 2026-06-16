@@ -1,6 +1,6 @@
 ---
 title: Propiedad Intelectual e IA - Análisis de Casos Reales
-date: 2025-07-06 11:00:00 +0200
+date: 2026-05-06 11:00:00 +0200
 categories: [Investigación, Normativa]
 tags: [IA, Propiedad Intelectual, TRLPI, Google Books, Legal]
 ---

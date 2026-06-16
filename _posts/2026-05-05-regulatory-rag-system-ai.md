@@ -1,6 +1,6 @@
 ---
 title: Sistema RAG para Consultas Normativas y Legales
-date: 2025-07-05 10:00:00 +0200
+date: 2026-05-05 10:00:00 +0200
 categories: [Proyectos, Inteligencia Artificial]
 tags: [IA, RAG, LLM, Python, Normativa, LegalTech]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Investigación y Aplicación del Framework MITRE ATT&CK
-date: 2025-06-28 21:00:00 +0200
+date: 2026-05-28 21:00:00 +0200
 categories: [Investigación, Gestión de Incidentes]
 tags: [MITRE ATT&CK, Tácticas, Técnicas, Ciberseguridad, Respuesta a Incidentes]
 ---

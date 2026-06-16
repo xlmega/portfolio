@@ -1,6 +1,6 @@
 ---
 title: Auditoría de Aplicaciones Web
-date: 2025-06-12 11:00:00 +0200
+date: 2026-05-12 11:00:00 +0200
 categories: [Talleres, Auditoría]
 tags: [Web, Pentesting, OWASP, Auditoría]
 ---

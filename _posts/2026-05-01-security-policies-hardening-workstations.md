@@ -1,6 +1,6 @@
 ---
 title: Políticas de Seguridad y Hardening de Puestos de Trabajo
-date: 2025-07-01 12:00:00 +0200
+date: 2026-05-01 12:00:00 +0200
 categories: [Proyectos, Normativa]
 tags: [Políticas de Seguridad, GPOs, Hardening, PDS, Auditoría]
 ---

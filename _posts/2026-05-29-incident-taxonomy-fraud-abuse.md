@@ -1,6 +1,6 @@
 ---
 title: Taxonomía de Incidentes - Fraude y Contenido Abusivo
-date: 2025-06-29 10:00:00 +0200
+date: 2026-05-29 10:00:00 +0200
 categories: [Investigación, Gestión de Incidentes]
 tags: [Taxonomía, Fraude, Ingeniería Social, Incidentes, Normativa]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Despliegue de SIEM con ELK y Suricata
-date: 2025-07-08 10:00:00 +0200
+date: 2026-05-08 10:00:00 +0200
 categories: [Proyectos, Incidentes]
 tags: [ELK, Suricata, SIEM, IDS, Docker, CiberSOC]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Despliegue de SIEM con ELK y Suricata
-date: 2025-06-14 15:00:00 +0200
+date: 2026-05-14 15:00:00 +0200
 categories: [Proyectos, Gestión de Incidentes]
 tags: [SIEM, ELK, Suricata, SOC]
 ---

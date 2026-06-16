@@ -1,6 +1,6 @@
 ---
 title: Auditoría OSINT - Análisis de Superficie de Exposición
-date: 2025-06-22 15:00:00 +0200
+date: 2026-05-22 15:00:00 +0200
 categories: [Proyectos, Auditoría]
 tags: [OSINT, Reconocimiento, DNS, Whois, Footprinting]
 ---

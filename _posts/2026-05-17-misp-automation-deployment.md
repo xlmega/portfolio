@@ -1,6 +1,6 @@
 ---
 title: Despliegue y Automatización de MISP
-date: 2025-06-17 10:00:00 +0200
+date: 2026-05-17 10:00:00 +0200
 categories: [Proyectos, Automatización]
 tags: [MISP, CTI, Docker, Python, Threat Intelligence]
 ---
