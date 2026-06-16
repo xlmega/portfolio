@@ -33,7 +33,7 @@ nmap -sV --script vuln 10.129.143.209
 
 **Resultados:**
 
-![image.png]({{ '/assets/images/Blue/image.png' | relative_url }})
+![image.png](/assets/images/Blue/image.png)
 
 # 3. Explotación (Acceso Inicial)
 
@@ -48,21 +48,21 @@ msf > search ms17-010
 
 Seleccioné el módulo de explotación: `exploit/windows/smb/ms17_010_eternalblue`
 
-![image.png]({{ '/assets/images/Blue/image 1.png' | relative_url }})
+![image.png](/assets/images/Blue/image%201.png)
 
 ## 3.2 Ejecución y Shell
 
 1. Configuré el parámetro `RHOSTS` con la IP de la máquina objetivo (`10.129.143.209`)
 
-![image.png]({{ '/assets/images/Blue/image 2.png' | relative_url }})
+![image.png](/assets/images/Blue/image%202.png)
 
 1. Al correr el modulo vemos que aunque la maquina es vulnerable parece que no consigue crear una sesion
 
-![image.png]({{ '/assets/images/Blue/image 3.png' | relative_url }})
+![image.png](/assets/images/Blue/image%203.png)
 
 1. Al estar trabajando dentro de la red de TryHackMe, las conexiones inversas requieren especificar la interfaz de la VPN. Procedí a cambiar el parámetro `LHOST` para que apuntara a mi IP asignada por OpenVPN (`192.168.146.227`).
 
-![image.png]({{ '/assets/images/Blue/image 4.png' | relative_url }})
+![image.png](/assets/images/Blue/image%204.png)
 
 # 4. Escalada de Privilegios (System / Root)
 
