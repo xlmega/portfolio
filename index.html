@@ -2,78 +2,78 @@
 layout: home
 # Index page
 ---
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adrian Sanchez Torrejon | Portfolio</title>
-</head>
-<body>
 
-    <main class="px-md-4">
-        <header style="margin-bottom: 2rem;">
-            <h1>Adrian Sanchez Torrejon</h1>
-            <p style="font-style: italic; color: var(--text-muted-color);">Administrador de Redes &amp; Especialista en Ciberseguridad</p>
-        </header>
+<div class="px-md-4">
+    <header class="mb-4">
+        <h1>Adrian Sanchez Torrejon</h1>
+        <p class="text-muted italic">Administrador de Redes &amp; Especialista en Ciberseguridad</p>
+    </header>
 
-        <section>
-            <p>Especialista enfocado en la <strong>resiliencia de infraestructura</strong> y el <strong>fortalecimiento de perímetros</strong>. Mi enfoque combina la eficiencia operativa con una mentalidad de "seguridad por diseño".</p>
-        </section>
+    <section class="mb-5">
+        <p class="lead">Bienvenido a mi portfolio técnico. Aquí comparto mi trabajo en <strong>defensa de infraestructuras</strong>, <strong>análisis forense</strong> y <strong>gestión de redes críticas</strong>.</p>
+    </section>
 
-        <hr style="border: 0; border-top: 1px solid var(--btn-border-color); margin: 2rem 0;">
+    <div class="row g-4 mb-5">
+        <div class="col-md-4">
+            <a href="/categories/bastionado/" class="card h-100 text-decoration-none border-primary">
+                <div class="card-body text-center">
+                    <h5 class="card-title text-primary">🛡️ Bastionado</h5>
+                    <p class="card-text text-muted small">Hardening de sistemas Windows/Linux y seguridad en Kernel.</p>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="/categories/análisis-forense/" class="card h-100 text-decoration-none border-primary">
+                <div class="card-body text-center">
+                    <h5 class="card-title text-primary">🔍 Forense</h5>
+                    <p class="card-text text-muted small">Investigación DFIR, análisis de RAM y artefactos digitales.</p>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="/categories/gestión-de-incidentes/" class="card h-100 text-decoration-none border-primary">
+                <div class="card-body text-center">
+                    <h5 class="card-title text-primary">🚨 Incidentes</h5>
+                    <p class="card-text text-muted small">Despliegue de SIEM (ELK/Suricata) y respuesta ante amenazas.</p>
+                </div>
+            </a>
+        </div>
+    </div>
 
-        <section>
-            <h3>Core Stack</h3>
-            <div style="overflow-x: auto;">
-                <table style="width: 100%; border-collapse: collapse; margin-top: 1rem;">
-                    <thead>
-                        <tr style="border-bottom: 2px solid var(--btn-border-color); text-align: left;">
-                            <th style="padding: 10px;">Infraestructura &amp; Redes</th>
-                            <th style="padding: 10px;">Seguridad &amp; Pentesting</th>
-                            <th style="padding: 10px;">Cloud &amp; Automatización</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr style="border-bottom: 1px solid var(--btn-border-color);">
-                            <td style="padding: 10px;"><strong>Cisco / Juniper</strong> (Routing &amp; Switching)</td>
-                            <td style="padding: 10px;"><strong>SIEM / SOC</strong> (Wazuh, Splunk)</td>
-                            <td style="padding: 10px;"><strong>Docker / Kubernetes</strong></td>
-                        </tr>
-                        <tr style="border-bottom: 1px solid var(--btn-border-color);">
-                            <td style="padding: 10px;"><strong>VPNs / Firewalls</strong> (Fortinet, pfSense)</td>
-                            <td style="padding: 10px;"><strong>Kali Linux / Parrot OS</strong></td>
-                            <td style="padding: 10px;"><strong>Python / Bash</strong> Scripting</td>
-                        </tr>
-                        <tr>
-                            <td style="padding: 10px;"><strong>Monitoreo</strong> (Zabbix, Grafana)</td>
-                            <td style="padding: 10px;"><strong>Análisis de Vulnerabilidades</strong></td>
-                            <td style="padding: 10px;"><strong>Ansible</strong> (IaC)</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </section>
+    <section class="mb-5">
+        <h3>Especialización Técnica</h3>
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead class="table-light">
+                    <tr>
+                        <th>Área</th>
+                        <th>Tecnologías Clave</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Redes</strong></td>
+                        <td>Cisco, Juniper, Fortinet, VLANs, VPNs.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Seguridad</strong></td>
+                        <td>SIEM (Wazuh), IDS/IPS (Suricata), Kali Linux.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Forense</strong></td>
+                        <td>Volatility, Autopsy, Sleuth Kit, Análisis de Logs.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Automatización</strong></td>
+                        <td>Python, Bash, Docker, Ansible (IaC).</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
 
-        <hr style="border: 0; border-top: 1px solid var(--btn-border-color); margin: 2rem 0;">
-
-        <section>
-            <h3>Áreas de Especialización</h3>
-            <ul>
-                <li style="margin-bottom: 0.5rem;"><strong>Hardening de Sistemas:</strong> Configuración de entornos bajo estándares CIS y auditoría de políticas de grupo.</li>
-                <li style="margin-bottom: 0.5rem;"><strong>Gestión de Redes Críticas:</strong> Segmentación mediante VLANs, implementación de protocolos de redundancia y optimización de tráfico.</li>
-                <li style="margin-bottom: 0.5rem;"><strong>Respuesta ante Incidentes:</strong> Análisis de logs y detección de anomalías en tiempo real.</li>
-                <li style="margin-bottom: 0.5rem;"><strong>Lógica de Sistemas:</strong> Desarrollo de scripts para la automatización de tareas y validación de reglas de acceso (evitando "falsos positivos" en muros de fuego lógicos).</li>
-            </ul>
-        </section>
-
-        <hr style="border: 0; border-top: 1px solid var(--btn-border-color); margin: 2rem 0;">
-
-        <section style="background: rgba(0,0,0,0.03); padding: 15px; border-radius: 6px; border: 1px solid var(--btn-border-color);">
-            <h4>📂 Últimas Publicaciones y Proyectos</h4>
-            <p style="margin-bottom: 0;">A medida que añadas reportes, write-ups o proyectos dentro de la carpeta <code>_posts/</code>, Chirpy los clasificará de forma automatizada. Usa el menú del lateral izquierdo para navegar directamente entre las secciones de tu portafolio.</p>
-        </section>
-    </main>
-
-</body>
-</html>
+    <div class="alert alert-info" role="alert">
+        <h4 class="alert-heading">📂 Exploración de Proyectos</h4>
+        <p class="mb-0">Los últimos proyectos y write-ups aparecerán automáticamente a continuación. Puedes usar las pestañas laterales para filtrar por etiquetas o categorías específicas.</p>
+    </div>
+</div>

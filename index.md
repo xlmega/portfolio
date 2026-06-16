@@ -1,30 +1,31 @@
 ---
 layout: home
 title: Inicio
+tagline: Administrador de Redes & Especialista en Ciberseguridad
 ---
 
-# Adrian Sanchez Torrejon | Redes & Ciberseguridad
+Bienvenido a mi portfolio profesional. Aquí encontrarás una recopilación de mis proyectos, investigaciones y write-ups técnicos enfocados en la seguridad de la información y la gestión de infraestructuras.
 
-Administrador de Redes y Especialista en Ciberseguridad enfocado en la **resiliencia de infraestructura** y el **fortalecimiento de perímetros**. Mi enfoque combina la eficiencia operativa con una mentalidad de "seguridad por diseño".
+## 🚀 Áreas de Enfoque
 
----
-
-### Core Stack
-
-| Infraestructura & Redes | Seguridad & Pentesting | Cloud & Automatización |
+| [🛡️ Bastionado](/categories/bastionado) | [🔍 Forense](/categories/análisis-forense) | [🚨 Incidentes](/categories/gestión-de-incidentes) |
 | :--- | :--- | :--- |
-| **Cisco / Juniper** (Routing & Switching) | **SIEM / SOC** (Wazuh, Splunk) | **Docker / Kubernetes** |
-| **VPNs / Firewalls** (Fortinet, pfSense) | **Kali Linux / Parrot OS** | **Python / Bash** Scripting |
-| **Monitoreo** (Zabbix, Grafana) | **Análisis de Vulnerabilidades** | **Ansible** (IaC) |
+| Hardening de kernel y servicios. | DFIR en Windows y Linux. | Despliegue de SIEM (ELK/Suricata). |
+
+| [💻 Hacking](/categories/auditoría) | [📜 Normativa](/categories/normativa-grc) | [🎓 Talleres](/categories/talleres) |
+| :--- | :--- | :--- |
+| Pentesting Web y OSINT. | Cumplimiento y Planes de Riesgo. | Formación y Concienciación. |
 
 ---
 
-### Áreas de Especialización
+### 🛠️ Featured Stack
 
-* **Hardening de Sistemas:** Configuración de entornos bajo estándares CIS y auditoría de políticas de grupo.
-* **Gestión de Redes Críticas:** Segmentación mediante VLANs, implementación de protocolos de redundancia y optimización de tráfico.
-* **Respuesta ante Incidentes:** Análisis de logs y detección de anomalías en tiempo real.
-* **Lógica de Sistemas:** Desarrollo de scripts para la automatización de tareas y validación de reglas de acceso (evitando "falsos positivos" en muros de fuego lógicos).
+- **Infraestructura:** Cisco, Fortinet, pfSense, Zabbix.
+- **Seguridad:** Kali, Metasploit, Volatility, Autopsy, Wazuh.
+- **Automatización:** Python, Bash, Docker, Ansible.
+
+> Utiliza el menú lateral para explorar las categorías o utiliza el buscador (arriba a la derecha) para encontrar términos específicos.
+{: .prompt-tip }
 
 ---
 
