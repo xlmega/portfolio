@@ -1,6 +1,8 @@
 ---
 layout: page
-title: " Write-ups"
+title: Write-ups
+icon: fas fa-pen-nib
+order: 5
 permalink: /writeups/
 ---
 
